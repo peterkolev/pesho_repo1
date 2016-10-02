@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.pdb

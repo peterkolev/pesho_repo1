@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\1. Centuries to Minutes\bin\Debug\_1.Centuries_to_Minutes.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\1. Centuries to Minutes\obj\Debug\1. Centuries to Minutes.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\1. Centuries to Minutes\bin\Debug\_1.Centuries_to_Minutes.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\1. Centuries to Minutes\bin\Debug\_1.Centuries_to_Minutes.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\1. Centuries to Minutes\obj\Debug\_1.Centuries_to_Minutes.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\1. Centuries to Minutes\obj\Debug\_1.Centuries_to_Minutes.pdb

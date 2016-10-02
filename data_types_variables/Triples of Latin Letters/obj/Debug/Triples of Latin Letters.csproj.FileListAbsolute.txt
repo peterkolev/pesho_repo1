@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Triples of Latin Letters\bin\Debug\Triples of Latin Letters.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Triples of Latin Letters\bin\Debug\Triples of Latin Letters.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Triples of Latin Letters\bin\Debug\Triples of Latin Letters.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Triples of Latin Letters\obj\Debug\Triples of Latin Letters.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Triples of Latin Letters\obj\Debug\Triples of Latin Letters.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Triples of Latin Letters\obj\Debug\Triples of Latin Letters.pdb

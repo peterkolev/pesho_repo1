@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\5. Boolean\bin\Debug\_5.Boolean.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\5. Boolean\bin\Debug\_5.Boolean.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\5. Boolean\bin\Debug\_5.Boolean.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\5. Boolean\obj\Debug\Boolean_var.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\5. Boolean\obj\Debug\_5.Boolean.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\5. Boolean\obj\Debug\_5.Boolean.pdb

@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.pdb

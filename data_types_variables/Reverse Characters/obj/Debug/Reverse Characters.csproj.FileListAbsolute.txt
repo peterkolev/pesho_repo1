@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Reverse Characters\bin\Debug\Reverse Characters.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Reverse Characters\bin\Debug\Reverse Characters.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Reverse Characters\bin\Debug\Reverse Characters.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Reverse Characters\obj\Debug\Reverse Characters.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Reverse Characters\obj\Debug\Reverse Characters.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Reverse Characters\obj\Debug\Reverse Characters.pdb

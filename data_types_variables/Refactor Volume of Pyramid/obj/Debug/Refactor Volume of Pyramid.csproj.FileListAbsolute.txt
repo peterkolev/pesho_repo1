@@ -1,0 +1,5 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.pdb

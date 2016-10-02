@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Characters and Strings\bin\Debug\Characters and Strings.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Characters and Strings\bin\Debug\Characters and Strings.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Characters and Strings\bin\Debug\Characters and Strings.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Characters and Strings\obj\Debug\Characters and Strings.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Characters and Strings\obj\Debug\Characters and Strings.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Characters and Strings\obj\Debug\Characters and Strings.pdb

@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Elevator\bin\Debug\Elevator.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Elevator\bin\Debug\Elevator.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Elevator\bin\Debug\Elevator.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Elevator\obj\Debug\Elevator.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Elevator\obj\Debug\Elevator.pdb

@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Math Power\bin\Debug\Math Power.exe.config
+D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Math Power\bin\Debug\Math Power.exe
+D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Math Power\bin\Debug\Math Power.pdb
+D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Math Power\obj\Debug\Math Power.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Math Power\obj\Debug\Math Power.exe
+D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Math Power\obj\Debug\Math Power.pdb

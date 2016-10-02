@@ -1,0 +1,5 @@
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe.config
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.pdb
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.exe
+D:\programming_fundamentals_sept_2016\01Data Types and Variables\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.pdb
