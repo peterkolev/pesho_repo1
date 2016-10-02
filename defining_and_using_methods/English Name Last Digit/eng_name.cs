@@ -29,7 +29,7 @@ namespace English_Name_Last_Digit
                 case 7: return "seven";
                 case 8: return "eight";
                 case 9: return "nine";
-   
+                default: return "NuN";
             }
         }
     }
