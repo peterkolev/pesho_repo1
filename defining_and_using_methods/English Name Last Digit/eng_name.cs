@@ -15,7 +15,7 @@ namespace English_Name_Last_Digit
         }
         static string LastNumberToWord(string n)
         {
-            long number = long.Parse(n);
+            long number = Math.Abs(long.Parse(n));
             long lastNumber = number % 10;
             switch (lastNumber)
             {
