@@ -15,8 +15,8 @@ namespace English_Name_Last_Digit
         }
         static string LastNumberToWord(string n)
         {
-            int number = int.Parse(n);
-            int lastNumber = number % 10;
+            long number = long.Parse(n);
+            long lastNumber = number % 10;
             switch (lastNumber)
             {
                 case 0: return "zero";
@@ -29,7 +29,7 @@ namespace English_Name_Last_Digit
                 case 7: return "seven";
                 case 8: return "eight";
                 case 9: return "nine";
-                default: return "NuN";
+                default: return "Wrong input";
             }
         }
     }
