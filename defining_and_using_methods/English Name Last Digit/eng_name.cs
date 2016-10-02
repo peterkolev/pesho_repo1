@@ -10,23 +10,26 @@ namespace English_Name_Last_Digit
     {
         static void Main(string[] args)
         {
-            int number = int.Parse(Console.ReadLine());
-
+            string number = Console.ReadLine();
+            Console.WriteLine(LastNumberToWord(number));
         }
-        static int LastNumberToWord(int n)
+        static string LastNumberToWord(string n)
         {
-            int lastNumber = n % 10;
-            string word;
-            if (lastNumber == 1)
-            {
-                return word = "one";
-            }
+            int number = int.Parse(n);
+            int lastNumber = number % 10;
             switch (lastNumber)
             {
-                case 0: return word = "zero";
-                
-                    
-
+                case 0: return "zero";
+                case 1: return "one";
+                case 2: return "two";
+                case 3: return "three";
+                case 4: return "four";
+                case 5: return "five";
+                case 6: return "six";
+                case 7: return "seven";
+                case 8: return "eight";
+                case 9: return "nine";
+   
             }
         }
     }

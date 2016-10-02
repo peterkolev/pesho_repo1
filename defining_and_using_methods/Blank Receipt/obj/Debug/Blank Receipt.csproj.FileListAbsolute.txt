@@ -4,3 +4,6 @@ D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Definin
 D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Blank Receipt\obj\Debug\Blank Receipt.csprojResolveAssemblyReference.cache
 D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Blank Receipt\obj\Debug\Blank Receipt.exe
 D:\programming_fundamentals_sept_2016\project\Defining and Using Methods\Defining and Using Methods\Blank Receipt\obj\Debug\Blank Receipt.pdb
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Blank Receipt\bin\Debug\Blank Receipt.exe.config
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Blank Receipt\obj\Debug\Blank Receipt.exe
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Blank Receipt\obj\Debug\Blank Receipt.pdb
