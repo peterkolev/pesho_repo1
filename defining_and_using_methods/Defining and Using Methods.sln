@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Numbers", "Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Checker", "Prime Checker\Prime Checker.csproj", "{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Center Point", "Center Point\Center Point.csproj", "{3FA59F2E-D0B2-45F3-B8A5-311EBCE6B607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longer Line", "Longer Line\Longer Line.csproj", "{294C3064-167A-4880-84D8-01147E2D0EC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA59F2E-D0B2-45F3-B8A5-311EBCE6B607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA59F2E-D0B2-45F3-B8A5-311EBCE6B607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA59F2E-D0B2-45F3-B8A5-311EBCE6B607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA59F2E-D0B2-45F3-B8A5-311EBCE6B607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294C3064-167A-4880-84D8-01147E2D0EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C3064-167A-4880-84D8-01147E2D0EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C3064-167A-4880-84D8-01147E2D0EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C3064-167A-4880-84D8-01147E2D0EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

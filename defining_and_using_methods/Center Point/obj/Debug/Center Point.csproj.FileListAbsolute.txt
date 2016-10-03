@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Center Point\bin\Debug\Center Point.exe.config
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Center Point\bin\Debug\Center Point.exe
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Center Point\bin\Debug\Center Point.pdb
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Center Point\obj\Debug\Center Point.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Center Point\obj\Debug\Center Point.exe
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Center Point\obj\Debug\Center Point.pdb
