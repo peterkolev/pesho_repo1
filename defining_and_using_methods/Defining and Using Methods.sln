@@ -29,6 +29,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Method", "Max Method\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Name Last Digit", "English Name Last Digit\English Name Last Digit.csproj", "{BC0CE81E-EDE7-4746-ADDE-C581EB782D32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers in Reversed Order", "Numbers in Reversed Order\Numbers in Reversed Order.csproj", "{C8553329-0F7C-401B-BBF1-5751E6A225FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Numbers", "Fibonacci Numbers\Fibonacci Numbers.csproj", "{64F0B79D-2E4A-4241-9ADA-F20CEF6768AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Checker", "Prime Checker\Prime Checker.csproj", "{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +93,18 @@ Global
 		{BC0CE81E-EDE7-4746-ADDE-C581EB782D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC0CE81E-EDE7-4746-ADDE-C581EB782D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC0CE81E-EDE7-4746-ADDE-C581EB782D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8553329-0F7C-401B-BBF1-5751E6A225FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8553329-0F7C-401B-BBF1-5751E6A225FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8553329-0F7C-401B-BBF1-5751E6A225FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8553329-0F7C-401B-BBF1-5751E6A225FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F0B79D-2E4A-4241-9ADA-F20CEF6768AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F0B79D-2E4A-4241-9ADA-F20CEF6768AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F0B79D-2E4A-4241-9ADA-F20CEF6768AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F0B79D-2E4A-4241-9ADA-F20CEF6768AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E12AB2-F978-4D7A-AB7E-075FE6F43AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
