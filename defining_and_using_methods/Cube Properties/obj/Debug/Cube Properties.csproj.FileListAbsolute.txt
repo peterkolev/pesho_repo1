@@ -1,0 +1,6 @@
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Cube Properties\bin\Debug\Cube Properties.exe.config
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Cube Properties\bin\Debug\Cube Properties.exe
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Cube Properties\bin\Debug\Cube Properties.pdb
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Cube Properties\obj\Debug\Cube Properties.csprojResolveAssemblyReference.cache
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Cube Properties\obj\Debug\Cube Properties.exe
+D:\programming_fundamentals_sept_2016\projects1\pesho_repo1\defining_and_using_methods\Cube Properties\obj\Debug\Cube Properties.pdb
