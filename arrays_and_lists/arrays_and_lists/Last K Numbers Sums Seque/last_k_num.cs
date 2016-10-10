@@ -30,7 +30,7 @@ namespace Last_K_Numbers_Sums_Seque
             long sum=0;
             for (long i = startIndex; i <= endIndex; i++)
             {
-                if (i >= 0) sum += arr[i]; 
+                if (i >= 0) sum += arr[i];
             }
             return sum;
         }
