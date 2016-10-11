@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rounding num away from zero
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse an Array of Strings", "Reverse an Array of Strings\Reverse an Array of Strings.csproj", "{FC210DD1-7747-4A9C-800F-42F959F7C12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Arrays", "Sum Arrays\Sum Arrays.csproj", "{04C65AF8-C1AE-40E0-8BF9-AB44060346C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condense Array to Number", "Condense Array to Number\Condense Array to Number.csproj", "{AC22A533-F7DE-4478-8611-F18B04795C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Mid 1, 2 or 3 elem", "Extract Mid 1, 2 or 3 elem\Extract Mid 1, 2 or 3 elem.csproj", "{3F17280F-7DBD-4142-A673-D40264D9D243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,18 @@ Global
 		{FC210DD1-7747-4A9C-800F-42F959F7C12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC210DD1-7747-4A9C-800F-42F959F7C12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC210DD1-7747-4A9C-800F-42F959F7C12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C65AF8-C1AE-40E0-8BF9-AB44060346C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C65AF8-C1AE-40E0-8BF9-AB44060346C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C65AF8-C1AE-40E0-8BF9-AB44060346C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C65AF8-C1AE-40E0-8BF9-AB44060346C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC22A533-F7DE-4478-8611-F18B04795C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC22A533-F7DE-4478-8611-F18B04795C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC22A533-F7DE-4478-8611-F18B04795C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC22A533-F7DE-4478-8611-F18B04795C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F17280F-7DBD-4142-A673-D40264D9D243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F17280F-7DBD-4142-A673-D40264D9D243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F17280F-7DBD-4142-A673-D40264D9D243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F17280F-7DBD-4142-A673-D40264D9D243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
