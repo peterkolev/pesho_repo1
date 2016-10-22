@@ -18,7 +18,7 @@ namespace Extract_Mid_1__2_or_3_elem
         {
             int[] arrInput = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            if (arrInput.Length == 1) Console.WriteLine(" {{{0}}} ", arrInput[0]);
+            if (arrInput.Length == 1) Console.WriteLine(" {0} ", arrInput[0]);
 
             else if (arrInput.Length%2==0)
             {
